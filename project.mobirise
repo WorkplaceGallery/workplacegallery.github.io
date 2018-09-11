@@ -842,7 +842,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1518-2000x2000.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -852,45 +852,45 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "Laura Lancaster",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "text": "WORKPLACE is pleased to announce Laura Lancaster's inclusion in The Anomie Review of Contemporary British Painting",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/news/\" data-toolbar=\"-mbrBtnMove\">learn more</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/538d3256938913e59696722de8210f184ab5f11b-1000x804.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "VIDEO SLIDE",
+                "title": "Marcus Coates",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "contentAlign": "right",
+                "text": "'Animals and Us' Turner Contemporary, Margate, UK",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/exhibitions/180/overview/\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
+                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/123824193#t=59s",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "IMAGE SLIDE",
+                "title": "Hugo Canoilas",
                 "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "contentAlign": "left",
+                "text": "Video interview: 'Someone a Long Time Ago, Now' Dundee, UK",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/10/\" data-toolbar=\"-mbrBtnMove\">Watch Online</a>"
               }
             ]
           }
