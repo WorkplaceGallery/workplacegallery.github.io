@@ -843,7 +843,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1518-2000x2000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -855,7 +855,7 @@
                 "title": "Laura Lancaster",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "WORKPLACE is pleased to announce Laura Lancaster's inclusion in The Anomie Review of Contemporary British Painting",
+                "text": "New Publication: The Anomie Review of Contemporary British Painting",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/news/\" data-toolbar=\"-mbrBtnMove\">learn more</a>"
               },
               {
@@ -872,12 +872,12 @@
                 "title": "Marcus Coates",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "'Animals and Us' Turner Contemporary, Margate, UK",
+                "text": "Museum Exhibition: 'Animals and Us' Turner Contemporary, Margate, UK",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/exhibitions/180/overview/\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -891,6 +891,23 @@
                 "contentAlign": "left",
                 "text": "Video interview: 'Someone a Long Time Ago, Now' Dundee, UK",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/10/\" data-toolbar=\"-mbrBtnMove\">Watch Online</a>"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://vimeo.com/51525610",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Eric Bainbridge",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Video interview: 'Steel Sculptures' Camden Arts Centre, UK",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/12/\" data-toolbar=\"-mbrBtnMove\">Watch Online</a>"
               }
             ]
           }
