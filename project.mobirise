@@ -843,7 +843,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1518-2000x2000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -856,7 +856,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "New Publication: The Anomie Review of Contemporary British Painting",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/news/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/news/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/538d3256938913e59696722de8210f184ab5f11b-1000x804.jpg",
@@ -891,11 +892,11 @@
                 "contentAlign": "left",
                 "text": "Video interview: 'Someone a Long Time Ago, Now' Dundee, UK",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/10/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Online</a>",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -909,7 +910,7 @@
                 "contentAlign": "left",
                 "text": "Video interview: 'Steel Sculptures' Camden Arts Centre, UK",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/12/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Online</a>",
-                "overlayOpacity": "0.3"
+                "overlayOpacity": "0.2"
               }
             ]
           }
