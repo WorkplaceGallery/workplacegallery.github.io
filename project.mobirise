@@ -856,7 +856,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "New Publication: The Anomie Review of Contemporary British Painting",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/news/\" data-toolbar=\"-mbrBtnMove\">learn more</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/news/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/538d3256938913e59696722de8210f184ab5f11b-1000x804.jpg",
@@ -873,7 +873,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Museum Exhibition: 'Animals and Us' Turner Contemporary, Margate, UK",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/exhibitions/180/overview/\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/exhibitions/180/overview/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a>"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
@@ -890,7 +890,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Video interview: 'Someone a Long Time Ago, Now' Dundee, UK",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/10/\" data-toolbar=\"-mbrBtnMove\">Watch Online</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/10/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Online</a>"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
@@ -907,7 +907,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Video interview: 'Steel Sculptures' Camden Arts Centre, UK",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/12/\" data-toolbar=\"-mbrBtnMove\">Watch Online</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://workplace2-web-g9.artlogic.net/video/12/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Online</a>"
               }
             ]
           }
